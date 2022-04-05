@@ -9,11 +9,10 @@ Hope these don't bother you.
 
 
 info:
-Version: 1
-Realtime detection: YES
-Youtube share links workable: YES
-Youtube shorts video workable: YES
-Using youtube API's : NO
-Scrapping: YES
-First release day: 05/04/2022 
-
+Version: 1;
+Realtime detection: YES;
+Youtube share links workable: YES;
+Youtube shorts video workable: YES;
+Using youtube API's : NO;
+Scrapping: YES;
+First release day: 05/04/2022 ;
