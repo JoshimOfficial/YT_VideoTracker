@@ -1,0 +1,33 @@
+.user_input {
+    transition: 2s;
+}
+.error {
+    margin-top: 15px;
+    position: absolute;
+    width: 97.5%;
+    text-align: center;
+    padding: 33px;
+    font-size: 20px;
+    display: none;
+}
+
+.thumbnail {
+    padding: 5px;
+    margin: auto;
+    width: 50%;
+    display: none;
+}
+
+tr {
+    color: black!important;
+    font-weight: 500;
+}
+
+.yt-img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.table {
+    display: none;
+}
